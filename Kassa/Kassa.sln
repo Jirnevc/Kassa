@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kassa", "Kassa\Kassa.csproj", "{CE572C56-6CB2-4F73-8B4E-11E6E5ECF5B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kassa.DataAcces", "Kassa.DataAcces\Kassa.DataAcces.csproj", "{AC49ADCA-7715-4ADE-A825-EBC70C2DD993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kassa.Model", "Kassa.Model\Kassa.Model.csproj", "{5B2D04E6-764B-4AB2-BAF7-F6C4E8F27DB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CE572C56-6CB2-4F73-8B4E-11E6E5ECF5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE572C56-6CB2-4F73-8B4E-11E6E5ECF5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE572C56-6CB2-4F73-8B4E-11E6E5ECF5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC49ADCA-7715-4ADE-A825-EBC70C2DD993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC49ADCA-7715-4ADE-A825-EBC70C2DD993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC49ADCA-7715-4ADE-A825-EBC70C2DD993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC49ADCA-7715-4ADE-A825-EBC70C2DD993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2D04E6-764B-4AB2-BAF7-F6C4E8F27DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2D04E6-764B-4AB2-BAF7-F6C4E8F27DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2D04E6-764B-4AB2-BAF7-F6C4E8F27DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2D04E6-764B-4AB2-BAF7-F6C4E8F27DB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
